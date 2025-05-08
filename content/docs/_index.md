@@ -46,6 +46,10 @@ Reference documents for various key aspects of the project.
 * [Configuration](/docs/reference/config/) - Schema definitions for configuration files.
 * [Specification](/docs/reference/spec/) - An overview of the Cloud Native Buildpacks API specification.
 
+### Online Course
+
+If you are interested in getting started with Cloud Native Buildpacks, you may refer to the online course [Cloud Native Buildpacks for the Absolute Beginners - HandsOn](https://www.udemy.com/course/cloud-native-buildpacks-for-the-absolute-beginners-handson/?referralCode=A86D7CBFEC6965627F73)
+
 ---
 
 ## Talks
